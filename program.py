@@ -7,8 +7,8 @@ A = 2
 B = 2.5
 E = 10**-5 #ERROR
 iterations = iterationsFunction(A, B, E)
-K = 5 #NUMERO DE ITERACIONES
-#K = round(iterations) 
+#K = 5 #NUMERO DE ITERACIONES
+K = round(iterations) 
 
 
 print("=========== BISECCIÓN ===========")
